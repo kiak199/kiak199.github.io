@@ -1,0 +1,20 @@
+.btn{
+	background-color:darkorange;
+	font-size:25px;
+	}
+.sec{
+	background-color:pink;
+}
+		.foot{
+	margin:auto;
+	border:250px;
+	background-color: grey;
+	position: relative;
+	height: 200px;
+	
+	clear: both;
+	}
+	.colo{
+		padding-left:auto;
+		padding-right:auto;
+	}

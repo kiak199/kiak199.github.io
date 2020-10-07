@@ -1,0 +1,12 @@
+.foot{
+	margin:auto;
+	border:250px;
+	background-color: grey;
+	position: relative;
+	height: 200px;
+	
+	clear: both;
+	}
+	p{
+		font-size:40px;
+	}

@@ -1,0 +1,28 @@
+.div{
+	border: 25px solid limegreen;
+	background-color:pink;
+	width: 500px;
+	padding:70px 0px;
+	margin:20px;
+	text-align:center;
+	margin-left: auto;
+	margin-right: auto;
+}
+p{
+	font-size:25px;
+	color:purple;
+}
+h2,h3{
+	font-size:45px;
+	color:brown;
+}
+	.foot{
+	margin:auto;
+	border:250px;
+	background-color: grey;
+	position: relative;
+	height: 200px;
+	
+	clear: both;
+	}
+	
